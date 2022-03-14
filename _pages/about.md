@@ -18,8 +18,8 @@ Selected Publications
 [4] **Guangchi Liu**, Qing Yang, Honggang Wang, Xiaodong Lin, and Mike P. Wittie. “Assessment of Multi-Hop Interpersonal Trust in Social Networks by Three-Valued Subjective Logic” in ***IEEE International Conference on Computer Communications (INFOCOM)*** 2014. <br/>
 [5] **Guangchi Liu**, Qing Yang, Honggang Wang, Shaoen Wu, and Mike P. Wittie. “Uncovering the Mystery of Trust in An Online Social Network ” in ***IEEE Conference on Communications and Network Security (CNS)*** 2015. <br/>
 [6] Tong Cheng, **Guangchi Liu** and Qing Yang, “Trust Assessment in Vehicular Social Network based on Three- Valued Subjective Logic”. ***IEEE Transactions on Multimedia (TMM)*** (2019). <br/>
-[7] Xiaofei Niu, **Guangchi Liu**, and Qing Yang. “Trustworthy Website Detection Based on Social Hyperlink Network Analysis.” IEEE Transactions on Network Science and Engineering (TNSE) (2018). [9] Xiaofei Niu, Guangchi Liu and Qing Yang, “OpinionRank: Trustworthy Website Detection using Three Valued
-Subjective Logic”. ***IEEE Transactions on Big Data (TBD)*** (2020). <br/>
+[7] Xiaofei Niu, **Guangchi Liu**, and Qing Yang. “Trustworthy Website Detection Based on Social Hyperlink Network Analysis.” IEEE Transactions on Network Science and Engineering (TNSE) (2018). <br/>
+[9] Xiaofei Niu, Guangchi Liu and Qing Yang, “OpinionRank: Trustworthy Website Detection using Three Valued Subjective Logic”. ***IEEE Transactions on Big Data (TBD)*** (2020). <br/>
 [8] Mehdi Assefi, Ehsun Behravesh, **Guangchi Liu** and Ahmad Pahlavan Tafti. “Big Data Machine Learning using Apache Spark MLlib” in IEEE BigData 2017.
 [9] Qi Chen, Ye Liu, **Guangchi Liu**, Qing Yang, Xianming Shi, Hongwei Gao, Lu Su and Quanlong Li. “Harvest Energy from the Water: A Self-Sustained Wireless Water Quality Sensing System” in ***ACM Transactions on Embedded Computing Systems (TECS) (2017)***. <br/>
 [10] Ye Liu, Qi Chen, **Guangchi Liu** and Qing Yang. “EcoSense: A Hardware Approach to On-Demand Sensing in the Internet of Things” in ***IEEE Communication Magazine*** (2016). <br/>
