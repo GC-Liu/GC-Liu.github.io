@@ -13,9 +13,9 @@ My name is Guangchi (Luke) Liu and I am currently the Sr. Director of Research &
 
 Proferssianl Experience
 ======
-Sep. 2021 - Present: **Sr. Director of Research & Development**, Stratifyd, Inc., Charlotte, NC <br/>
-Dec. 2018 - Sep. 2021: **Director of Research & Development**, Stratifyd, Inc., Charlotte, NC <br/>
-Jun. 2017 - Dec. 2018: **Research Scientist**, Stratifyd, Inc., Charlotte, NC <br/>
+**Sr. Director of Research & Development** <br/> Sep. 2021 - Present, Stratifyd, Inc., Charlotte, NC <br/>
+**Director of Research & Development**, <br/> Dec. 2018 - Sep. 2021, Stratifyd, Inc., Charlotte, NC <br/>
+**Research Scientist**, <br/> Jun. 2017 - Dec. 2018, Stratifyd, Inc., Charlotte, NC <br/>
 
 
 
