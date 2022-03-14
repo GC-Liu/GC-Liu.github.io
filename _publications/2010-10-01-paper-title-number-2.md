@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Uncovering the mystery of trust in an online social network"
+collection: IEEE CNS 2015
+permalink: https://ieeexplore.ieee.org/abstract/document/7346861
+date: 2015-12-07
+# venue: 'Journal 1'
+# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
