@@ -10,6 +10,11 @@ redirect_from:
 
 My name is Guangchi (Luke) Liu and I am currently the Sr. Director of Research & Development at Stratifyd, Inc., Charlotte, NC. I received my Ph.D. in 2017 from the Gianforte School of Computing at Montana State University. My research interests is in the areas of social computing and security, trust modeling in network, natural language processing and machine learning. I have gained rich research experience from both industry and academia. As an academic researcher, I have published more than 20 research papers on top tier confererences and journals including ***INFOCOM***, ***TDSC***, ***CNS***, ***TMM***, ***TECS***, ***Communication Magzine***, etc. I also serve as an editor for several top tier journals including ***Security and Communication Networks***, etc. As an industrial research lead, I led and delivered numerious commercial social media and text analytics systems, such as ***Emerging Themes and Trends Detection***, ***Semi-Auto Taxonomy*** and ***Tuneable Neural Sentiment Analysis***, etc. These systems are being used by more than 100 enterprises around the world. 
 
+Research Interests
+------
+Social Computing and Security, Trust Modeling in Network, Natural Language Processing, Machine Learning
+
+
 Selected Publications
 ------
 [1] **Guangchi Liu**, Qing Yang, Honggang Wang and Alex X. Liu, “Three-Valued Subjective Logic: A Model for Trust Assessment in Online Social Networks”. ***IEEE Transactions on Dependable and Secure Computing (TDSC)*** (2019).  <br/><br/>
@@ -29,12 +34,7 @@ Full Publications
 ------
 [Please see my google scholar profile](https://scholar.google.com/citations?user=_Xi_fakAAAAJ&hl=en)
 
-Research Interests
-------
-Social Computing and Security <br/>
-Trust Modeling in Network <br/>
-Natural Language Processing <br/>
-Machine Learning <br/>
+
 
 
 
