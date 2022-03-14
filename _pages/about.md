@@ -20,8 +20,8 @@ Selected Publications
 [6] Tong Cheng, **Guangchi Liu** and Qing Yang, “Trust Assessment in Vehicular Social Network based on Three- Valued Subjective Logic”. ***IEEE Transactions on Multimedia (TMM)*** (2019). <br/><br/>
 [7] Xiaofei Niu, **Guangchi Liu**, and Qing Yang. “Trustworthy Website Detection Based on Social Hyperlink Network Analysis.” ***IEEE Transactions on Network Science and Engineering (TNSE)*** (2018). <br/><br/>
 [9] Xiaofei Niu, **Guangchi Liu** and Qing Yang, “OpinionRank: Trustworthy Website Detection using Three Valued Subjective Logic”. ***IEEE Transactions on Big Data (TBD)*** (2020). <br/><br/>
-[8] Mehdi Assefi, Ehsun Behravesh, **Guangchi Liu** and Ahmad Pahlavan Tafti. “Big Data Machine Learning using Apache Spark MLlib” in ***IEEE BigData*** 2017.
-[9] Qi Chen, Ye Liu, **Guangchi Liu**, Qing Yang, Xianming Shi, Hongwei Gao, Lu Su and Quanlong Li. “Harvest Energy from the Water: A Self-Sustained Wireless Water Quality Sensing System” in ***ACM Transactions on Embedded Computing Systems (TECS) (2017)***. <br/><br/>
+[8] Mehdi Assefi, Ehsun Behravesh, **Guangchi Liu** and Ahmad Pahlavan Tafti. “Big Data Machine Learning using Apache Spark MLlib” in ***IEEE BigData*** (2017).
+[9] Qi Chen, Ye Liu, **Guangchi Liu**, Qing Yang, Xianming Shi, Hongwei Gao, Lu Su and Quanlong Li. “Harvest Energy from the Water: A Self-Sustained Wireless Water Quality Sensing System” in ***ACM Transactions on Embedded Computing Systems (TECS)*** (2017). <br/><br/>
 [10] Ye Liu, Qi Chen, **Guangchi Liu** and Qing Yang. “EcoSense: A Hardware Approach to On-Demand Sensing in the Internet of Things” in ***IEEE Communication Magazine*** (2016). <br/><br/>
 
 
