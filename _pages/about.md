@@ -12,7 +12,6 @@ My name is Guangchi (Luke) Liu and I am currently the Sr. Director of Research &
 
 Selected Publications
 ======
-# [1] Guangchi Liu, Yang Cai, Zhen Ling and Junzhou Luo, “NeuralWalk: Iterative Multi-Hop Trust Assessment in Social Networks with Neural Networks”. Under Review
 [1] **Guangchi Liu**, Qing Yang, Honggang Wang and Alex X. Liu, “Three-Valued Subjective Logic: A Model for Trust Assessment in Online Social Networks”. ***IEEE Transactions on Dependable and Secure Computing (TDSC)*** (2019).  <br/>
 [2] **Guangchi Liu**, Chenyu Li and Qing Yang, “NeuralWalk: Assessing Trust in Online Social Networks with Neural Network” in ***IEEE International Conference on Computer Communications (INFOCOM)*** 2019. <br/>
 [3] **Guangchi Liu**, Qi Chen, Qing Yang, Binhai Zhu, Honggang Wang and Wei Wang. “OpinionWalk: An Efficient Algorithm for Massive Trust Assessment in Online Social Networks” in ***IEEE International Conference on Computer Communications (INFOCOM)*** 2017. <br/>
