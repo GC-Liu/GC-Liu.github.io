@@ -1,21 +1,20 @@
-<\br>
 Weiye (Michael) Deng, Current Position: Data Science Manager@Nordstorm, Inc.
-<\br>
+<br/>
 Chenyu Li, Current Position: Sr. Software Engineer@dbt Labs, Inc. (Series D Start-up Company)
-<\br>
+<br/>
 Liang Tan, Current Position: Sr. Machine Learning Engineer@Facebook, Inc.
-<\br>
+<br/>
 Yuming Yang, Current Position: Research Engineer@Microsoft, Inc.
-<\br>
+<br/>
 Jiawei (Frank) Zhong, Current Position: Software Engineer@Google, Inc.
-<\br>
+<br/>
 Jiayu Wu, Current Position: Applied Scientist@Amazon, Inc.
-<\br>
+<br/>
 Yang Zhou, Current Position: Data Scientist@KPMG, L.L.P.
-<\br>
+<br/>
 Yang Cai, Current Position: Research Scientist@Gray Associates, Inc.
-<\br>
+<br/>
 Yang Shi, Current Position: Ph.D. Candidate@NCSU
-<\br>
+<br/>
 Xi Shun, Current Position: Research Engineer@Ansys, Inc.
-<\br>
+<br/>
