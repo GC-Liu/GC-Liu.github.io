@@ -22,7 +22,6 @@ Education
 * *B.S. in Biomedical Engineering*, **Southeast University**, China, 2009
 
 
-
 Work experience
 ------
 * **Stratifyd, Inc.**, Charlotte, NC, U.S.
@@ -30,7 +29,7 @@ Work experience
   * Dec. 2018 - Aug. 2021: *Director of Research and Development*
   * Jun. 2017 - Nov. 2018: *Research Scientist*
   
-  **Responsibilities:**
+  ***Responsibilities:***
     * Apply cutting edge approaches from academia to solve the blockers in social media data analytic products
     * Adapt the prototyped solutions w.r.t. engineering and product requirements
     * Organize journal club for continuous learning
