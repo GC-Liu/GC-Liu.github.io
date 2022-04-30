@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /portfolio/
+permalink: /alumni/
 author_profile: true
 ---
 
