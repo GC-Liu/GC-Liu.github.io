@@ -9,56 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Biomedical Engineering, Southeast University, China 2009
-* M.S. in Electrical and Computing Engineering, Southeast University, China, 2012
-* Ph.D in Computer Science, Montana State University, U.S., 2017
-
-Work experience
-======
-* Stratifyd, Inc., Charlotte, NC, U.S.
-  * Sep. 2021 - Present: Sr. Director of Research and Development
-  * Dec. 2018 - Aug. 2021: Director of Research and Development
-  * Jun. 2017 - Nov. 2018: Research Scientist
-  
-Selected Projects
-======
-* X-Sentiment
-  * Lead the research team to build an accurate and editable neural sentiment model
-
-* Semi-auto Taxonomy
-  * Lead the research team to build an extreme multi-label text classification module requiring minimum labeling effort
-
-* Emerging Theme Detection and Summarization
-  * Lead the research team to build an unsupervised module which detects topics from text data
-
-* Generic Text Classification Training Pipeline
-  * Lead the research team to build a pipeline for text classification model training
-
-* Speech-to-Text
-  * Lead the research team to build a solution to batch/real-time speech-to-text service
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
 * Editor
   * IEEE Internet of Things Journal, Associate Editor 
   * Security and Communication Networks, Editor
