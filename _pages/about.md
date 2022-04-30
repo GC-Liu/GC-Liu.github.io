@@ -23,10 +23,10 @@ Education
 
 Work experience
 ------
-* Stratifyd, Inc., Charlotte, NC, U.S.
-  * Sep. 2021 - Present: Sr. Director of Research and Development
-  * Dec. 2018 - Aug. 2021: Director of Research and Development
-  * Jun. 2017 - Nov. 2018: Research Scientist
+* **Stratifyd, Inc.**, Charlotte, NC, U.S.
+  * Sep. 2021 - Present: *Sr. Director of Research and Development*
+  * Dec. 2018 - Aug. 2021: *Director of Research and Development*
+  * Jun. 2017 - Nov. 2018: *Research Scientist*
 
 
 
