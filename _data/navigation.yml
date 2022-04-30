@@ -1,7 +1,7 @@
 # main links links
 main:
-   - title: "Alumni"
-    url: /publications/
+  - title: "Alumni"
+   url: /publications/
     
-   - title: "CV"
-    url: /cv/
+  - title: "CV"
+   url: /cv/
