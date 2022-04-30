@@ -12,7 +12,7 @@ My name is Guangchi (Luke) Liu and I am currently the Sr. Director of Research &
 
 Research Interests
 ------
-Social Computing and Security, Trust Modeling in Network, Natural Language Processing, Machine Learning
+Social Computing and Security, Trust Modeling in Network, Natural Language Processing, Machine Learning 
 
 
 
