@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, Southeast University, China 2009
+* M.S. in Electrical and Computing Engineering, Southeast University, China, 2012
+* Ph.D in Computer Science, Montana State University, U.S., 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Stratifyd, Inc., Charlotte, NC, U.S.
+  * Sep. 2021 - Present: Sr. Director of Research and Development
+  * Dec. 2018 - Aug. 2021: Director of Research and Development
+  * Jun. 2017 - Nov. 2018: Research Scientist
   
-Skills
+Selected Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* X-Sentiment
+  * Lead the research team to build an accurate and editable neural sentiment model
+
+* Semi-auto Taxonomy
+  * Lead the research team to build an extreme multi-label text classification module requiring minimum labeling effort
+
+* Emerging Theme Detection and Summarization
+  * Lead the research team to build an unsupervised module which detects topics from text data
+
+* Generic Text Classification Training Pipeline
+  * Lead the research team to build a pipeline for text classification model training
+
+* Speech-to-Text
+  * Lead the research team to build a solution to batch/real-time speech-to-text service
 
 Publications
 ======
@@ -56,4 +59,36 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editor
+  * IEEE Internet of Things Journal, Associate Editor 
+  * Security and Communication Networks, Editor
+  * ACM/Springer Mobile Networks and Applications, Guest Editor
+
+* TPC Member
+  * 2022 IEEE International Conference on Communications: Communication Software and Multimedia Symposium (ICC 2022 CSM Symposium) 
+  * 12th EAI International Conference on Mobile Multimedia Communications (MOBIMEDIA 2019)
+  * 11th EAI International Conference on Mobile Multimedia Communications (MOBIMEDIA 2018)
+  * 2018 IEEE International Conference on Computing, Networking and Communications: Mobile Computing and Vehicle Communications (ICNC 2018)
+  * 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017)
+  * 3rd IEEE Global Conference on Signal and Information Processing (GlobalSIP 2015)
+ 
+* Reviewer
+  * IEEE International Conference on Computer Communications
+  * IEEE International Conference on Multimedia \& Expo
+  * IEEE Wireless Communication Magazine
+  * IEEE International Conference on Computer Communications and Networks
+  * IEEE International Conference on Computing, Networking and Communications
+  * IEEE ISPA
+  * IEEE International Communication Conference
+  * IEEE GlobalSIP
+  * IEEE Transactions on Services Computing
+  * IEEE Access
+  * IEEE Network Magazine
+  * IEEE Internet of Things Journal
+  * Elsevier Computer Communications
+  * Journal of Internet Technology
+  * International Journal of Electronics
+  * IET Communications, Security and Communication Networks
+  * Digital Communications and Networks
+  * International Journal of Communication Systems
+  * KSII Transactions on Internet and Information Systems
