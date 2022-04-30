@@ -17,9 +17,9 @@ Social Computing and Security, Trust Modeling in Network, Natural Language Proce
 
 Education
 ------
-* B.S. in Biomedical Engineering, Southeast University, China 2009
-* M.S. in Electrical and Computing Engineering, Southeast University, China, 2012
-* Ph.D in Computer Science, Montana State University, U.S., 2017
+* ***B.S. in Biomedical Engineering***, Southeast University, China, 2009
+* ***M.E. in Electronic Science and Engineering***, Southeast University, China, 2012
+* ***Ph.D. in Computer Science, Montana State University***, U.S., 2017
 
 Work experience
 ------
