@@ -27,7 +27,7 @@ redirect_from:
  
 * Reviewer
   * IEEE International Conference on Computer Communications
-  * IEEE International Conference on Multimedia \& Expo
+  * IEEE International Conference on Multimedia & Expo
   * IEEE Wireless Communication Magazine
   * IEEE International Conference on Computer Communications and Networks
   * IEEE International Conference on Computing, Networking and Communications
