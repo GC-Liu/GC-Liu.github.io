@@ -15,7 +15,7 @@ redirect_from:
   * Guest Editor, **ACM/Springer Mobile Networks and Applications**
  
 * Technical Committee Member
-  * Committee Member, IEEE ComSoc Multimedia Communications Technical Committee
+  * Committee Member, **IEEE ComSoc Multimedia Communications Technical Committee**
   
 * TPC Member
   * 2022 IEEE International Conference on Communications: Communication Software and Multimedia Symposium (ICC 2022 CSM Symposium) 
