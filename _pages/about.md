@@ -17,9 +17,11 @@ Social Computing and Security, Trust Modeling in Network, Natural Language Proce
 
 Education
 ------
-* *B.S. in Biomedical Engineering*, **Southeast University**, China, 2009
-* *M.E. in Electronic Science and Engineering*, **Southeast University**, China, 2012
 * *Ph.D. in Computer Science*, **Montana State University**, U.S., 2017
+* *M.S. in Electronic Science and Engineering*, **Southeast University**, China, 2012
+* *B.S. in Biomedical Engineering*, **Southeast University**, China, 2009
+
+
 
 Work experience
 ------
@@ -27,8 +29,7 @@ Work experience
   * Sep. 2021 - Present: *Sr. Director of Research and Development*
   * Dec. 2018 - Aug. 2021: *Director of Research and Development*
   * Jun. 2017 - Nov. 2018: *Research Scientist*
-
-  **Responsibilities**
+  **Responsibilities:**
     * Apply cutting edge approaches from academia to solve the blockers in social media data analytic products
     * Adapt the prototyped solutions w.r.t. engineering and product requirements
     * Organize journal club for continuous learning
