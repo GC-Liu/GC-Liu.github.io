@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+  
 * Editor
   * Associate Editor, **IEEE Internet of Things Journal**
   * Editor, **Security and Communication Networks**
   * Guest Editor, **ACM/Springer Mobile Networks and Applications**
-
+ 
+* Technical Committee Member
+  * Committee Member, IEEE ComSoc Multimedia Communications Technical Committee
+  
 * TPC Member
   * 2022 IEEE International Conference on Communications: Communication Software and Multimedia Symposium (ICC 2022 CSM Symposium) 
   * 12th EAI International Conference on Mobile Multimedia Communications (MOBIMEDIA 2019)
