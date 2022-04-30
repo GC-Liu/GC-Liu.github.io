@@ -15,7 +15,18 @@ Research Interests
 Social Computing and Security, Trust Modeling in Network, Natural Language Processing, Machine Learning 
 
 
+Education
+------
+* B.S. in Biomedical Engineering, Southeast University, China 2009
+* M.S. in Electrical and Computing Engineering, Southeast University, China, 2012
+* Ph.D in Computer Science, Montana State University, U.S., 2017
 
+Work experience
+------
+* Stratifyd, Inc., Charlotte, NC, U.S.
+  * Sep. 2021 - Present: Sr. Director of Research and Development
+  * Dec. 2018 - Aug. 2021: Director of Research and Development
+  * Jun. 2017 - Nov. 2018: Research Scientist
 
 
 
