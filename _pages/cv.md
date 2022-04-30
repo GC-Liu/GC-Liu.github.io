@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 * Editor
-  * IEEE Internet of Things Journal, Associate Editor 
-  * Security and Communication Networks, Editor
-  * ACM/Springer Mobile Networks and Applications, Guest Editor
+  * Associate Editor, **IEEE Internet of Things Journal**
+  * Editor, **Security and Communication Networks**
+  * Guest Editor, **ACM/Springer Mobile Networks and Applications**
 
 * TPC Member
   * 2022 IEEE International Conference on Communications: Communication Software and Multimedia Symposium (ICC 2022 CSM Symposium) 
