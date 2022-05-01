@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-* Editor
+* Editorship 
   * Associate Editor, **IEEE Internet of Things Journal**
   * Editor, **Security and Communication Networks**
   * Guest Editor, **ACM/Springer Mobile Networks and Applications**
