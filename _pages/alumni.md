@@ -18,7 +18,7 @@ Current Position: Sr. Software Engineer@dbt Labs
 Current Position: Sr. Machine Learning Engineer@Meta
 
 **Yang Zhou**, Research Scientist <br/>
-Current Position: Senior Data Scientist@Deloitte.
+Current Position: Senior Data Scientist@Deloitte
 
 **Claire Mathis**, Research Engineer <br/>
 Current Position: Software Engineer
