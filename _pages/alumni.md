@@ -39,8 +39,8 @@ Current Position: Applied Machine Learning Sr. Associate@JPMorgan Chase
 Current Position: Ph.D. Candidate@NCSU
 
 **Xi Shun**, Research Intern <br/>
-Current Position: Research Engineer@Ansys, Inc.
+Current Position: Research Engineer@Ansys
 
 **Yuzhe Ye**, Research Intern <br/>
-Current Position: Machine Learning Researcher@Tencent, Inc.
+Current Position: Machine Learning Researcher@Tencent
 
