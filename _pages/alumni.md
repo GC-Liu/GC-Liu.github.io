@@ -17,9 +17,6 @@ Current Position: Sr. Software Engineer@dbt Labs
 **Liang Tan**, Research Scientist <br/>
 Current Position: Sr. Machine Learning Engineer@Meta
 
-**Yang Zhou**, Research Scientist <br/>
-Current Position: Senior Data Scientist@Deloitte
-
 **Claire Mathis**, Research Engineer <br/>
 Current Position: Software Engineer
 
@@ -29,11 +26,14 @@ Current Position: Research Engineer@Microsoft
 **Jiawei (Frank) Zhong**, Research Engineer <br/>
 Current Position: Software Engineer@Google
 
+**Yang Zhou**, Research Scientist <br/>
+Current Position: Senior Data Scientist@Deloitte
+
 **Jiayu Wu**, Research Scientist <br/>
 Current Position: Applied Scientist@Amazon
 
 **Yang Cai**, Research Scientist <br/>
-Current Position: Applied Machine Learning Senior Associate@JPMorgan Chase
+Current Position: Applied Machine Learning Sr. Associate@JPMorgan Chase
 
 **Yang Shi**, Research Intern <br/>
 Current Position: Ph.D. Candidate@NCSU
