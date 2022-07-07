@@ -9,31 +9,31 @@ author_profile: true
 
 
 **Weiye (Michael) Deng**, Research Scientist <br/>
-Current Position: Data Science Manager@Nordstorm, Inc.
+Current Position: Data Science Manager@Nordstorm
 
 **Chenyu Li**, Research Engineer <br/>
-Current Position: Sr. Software Engineer@dbt Labs, Inc.
+Current Position: Sr. Software Engineer@dbt Labs
 
 **Liang Tan**, Research Scientist <br/>
-Current Position: Sr. Machine Learning Engineer@Meta, Inc.
+Current Position: Sr. Machine Learning Engineer@Meta
+
+**Yang Zhou**, Research Scientist <br/>
+Current Position: Senior Data Scientist@Deloitte.
 
 **Claire Mathis**, Research Engineer <br/>
 Current Position: Software Engineer
 
 **Yuming Yang**, Research Scientist <br/>
-Current Position: Research Engineer@Microsoft, Inc.
+Current Position: Research Engineer@Microsoft
 
 **Jiawei (Frank) Zhong**, Research Engineer <br/>
-Current Position: Software Engineer@Google, Inc.
+Current Position: Software Engineer@Google
 
 **Jiayu Wu**, Research Scientist <br/>
-Current Position: Applied Scientist@Amazon, Inc.
-
-**Yang Zhou**, Research Scientist <br/>
-Current Position: Data Scientist@KPMG, LLP.
+Current Position: Applied Scientist@Amazon
 
 **Yang Cai**, Research Scientist <br/>
-Current Position: Research Scientist@Gray Associate, Inc.
+Current Position: Applied Machine Learning Senior Associate@JPMorgan Chase
 
 **Yang Shi**, Research Intern <br/>
 Current Position: Ph.D. Candidate@NCSU
