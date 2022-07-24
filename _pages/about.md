@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guangchi (Luke) Liu and I am currently an assisstant professor of computer science at Kennesaw state university, Marrieta, GA. I received my Ph.D. in 2017 from the Gianforte School of Computing at Montana State University. My research interests lie in the areas of social computing and security, trust network, machine learning and NLP, etc. I have gained research experience from both industry and academia. As an academic researcher, I have published more than 20 research papers on top tier conferences and journals including ***INFOCOM***, ***TDSC***, ***CNS***, ***TMM***, ***TECS***, ***Communication Magzine***, etc. I also serve as an editor for several top tier journals including ***IEEE Internet of Things Journal***, etc. I used to be a industrial research lead at Stratifyd, Inc., Charlotte, NC. I led and delivered numerious commercial social media and text analytics systems, such as ***Emerging Themes and Trends Detection***, ***Semi-Auto Taxonomy*** and ***Tuneable Neural Sentiment Analysis***, etc. These systems are being used by more than 100 enterprises around the world. 
+My name is Guangchi (Luke) Liu and I am currently an assisstant professor of computer science at Kennesaw state university, Marrieta, GA. I received my Ph.D. in 2017 from the Gianforte School of Computing at Montana State University. My research interests lie in the areas of social computing and security, trust network, machine learning and NLP, etc. I have gained research experience from both industry and academia. As an academic researcher, I have published more than 20 research papers on top tier conferences and journals including ***INFOCOM***, ***TDSC***, ***CNS***, ***TMM***, ***TECS***, ***Communication Magzine***, etc. I also serve as an editor for several top tier journals including ***IEEE Internet of Things Journal***, etc. I used to be a industrial research lead at Stratifyd, Inc., Charlotte, NC. At Stratifyd, Inc., I led and delivered numerious commercial social media and data analytics systems, such as ***Emerging Themes and Trends Detection***, ***Semi-Auto Taxonomy*** and ***Tuneable Neural Sentiment Analysis***, etc. These systems are being used by more than 100 enterprises around the world. 
 
 Research Interests
 ------
@@ -26,6 +26,7 @@ Work experience
 ------
 * **Kennesaw State University**, Marrieta, GA, U.S.A.
   * Aug. 2022 - Present: *Assistant Professor of Computer Science*
+  
   
 * **Stratifyd, Inc.**, Charlotte, NC, U.S.A.
   * Sep. 2021 - Aug. 2022: *Sr. Director of Research and Development*
