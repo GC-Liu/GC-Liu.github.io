@@ -27,7 +27,7 @@ Work experience
 * **Kennesaw State University**, Marrieta, GA, U.S.A.
   * Aug. 2022 - Present: *Assistant Professor of Computer Science*
   
-* **Stratifyd, Inc.**, Charlotte, NC, U.S.
+* **Stratifyd, Inc.**, Charlotte, NC, U.S.A.
   * Sep. 2021 - Aug. 2022: *Sr. Director of Research and Development*
   * Dec. 2018 - Aug. 2021: *Director of Research and Development*
   * Jun. 2017 - Nov. 2018: *Research Scientist*
