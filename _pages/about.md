@@ -12,7 +12,7 @@ My name is Guangchi (Luke) Liu and I am currently an assisstant professor of com
 
 Research Interests
 ------
-Social Computing and Security, Trust Network, NLP, Machine Learning 
+Social Computing and Security, Trust Network, NLP, Machine Learning, Internet of Things
 
 
 Education
@@ -22,7 +22,7 @@ Education
 * *B.S. in Biomedical Engineering*, **Southeast University**, China, 2009
 
 
-Work experience
+Work Experience
 ------
 * **Kennesaw State University**, Marrieta, GA, U.S.A.
   * Aug. 2022 - Present: *Assistant Professor of Computer Science*
