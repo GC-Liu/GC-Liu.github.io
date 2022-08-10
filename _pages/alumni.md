@@ -15,7 +15,7 @@ Current Position: Data Science Manager@Nordstorm
 Current Position: Sr. Software Engineer@dbt Labs
 
 **Liang Tan**, Research Scientist <br/>
-Current Position: Sr. Machine Learning Engineer@Meta
+Current Position: Staff Machine Learning Engineer@Meta
 
 **Claire Mathis**, Research Engineer <br/>
 Current Position: Software Engineer
