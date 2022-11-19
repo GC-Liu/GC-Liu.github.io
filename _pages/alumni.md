@@ -21,7 +21,7 @@ Current Position: Staff Machine Learning Engineer@Meta
 Current Position: Software Engineer
 
 **Yuming Yang**, Research Scientist <br/>
-Current Position: Research Engineer@Microsoft
+Current Position: Applied Scientist@Microsoft
 
 **Jiawei (Frank) Zhong**, Research Engineer <br/>
 Current Position: Software Engineer@Google
