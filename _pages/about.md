@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guangchi (Luke) Liu and I am currently an assisstant professor of computer science at Kennesaw state university, Marrieta, GA. I received my Ph.D. in 2017 from the Gianforte School of Computing at Montana State University. My research interests lie in the areas of social computing and security, trust network, machine learning and NLP, etc. I have research experience from both industry and academia. As an academic researcher, I have published more than 20 research papers on top tier conferences and journals including ***INFOCOM***, ***TDSC***, ***CNS***, ***TMM***, ***TECS***, ***Communication Magzine***, etc. I also serve as an editor for several top tier journals including ***IEEE Internet of Things Journal***, etc. I used to be a industrial research lead at Stratifyd, Inc., Charlotte, NC. At Stratifyd, Inc., I led and delivered numerious commercial social media and data analytics systems, such as ***Emerging Themes and Trends Detection***, ***Semi-Auto Taxonomy***, ***Auto Speech Recognition***, and ***Tunable Neural Sentiment Analysis***, etc. These systems are being used by more than 100 enterprises around the world. 
+My name is Guangchi (Luke) Liu and I am currently an assisstant professor of computer science at Kennesaw state university, Marrieta, GA. I received my Ph.D. in 2017 from the Gianforte School of Computing at Montana State University. My research interests lie in the areas of social computing and security, trust network, machine learning and natural language processing, etc. I have research experience from both industry and academia. 
+
+I used to be a industrial research lead at Stratifyd, Inc. for 5 years. Under my supervision, my team prototyped and productionized numerious social media and opinion analysis systems, such as ***Emerging Themes and Trends Detection***, ***Semi-Auto Taxonomy***, ***Auto Speech Recognition***, and ***Tunable Neural Sentiment Analysis***, etc. These systems are being used by more than 100 enterprises. All of the teamates I have mentored are currently working at technology and financial companies including Google, Meta, Amazon, Microsoft, JP Morgan and Deloitte, etc. 
+
+As an academic researcher, I have published more than 20 research papers on top tier conferences and journals including ***INFOCOM***, ***TDSC***, ***CNS***, ***TMM***, ***TECS***, ***Communication Magzine***, etc. I also serve as an editor for several top tier journals including ***IEEE Internet of Things Journal***, etc. 
+
+
 
 Research Interests
 ------
