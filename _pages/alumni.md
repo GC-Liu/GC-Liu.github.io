@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Ex-Team Members
+------
 
 **Weiye (Michael) Deng**, Research Scientist <br/>
 Current Position: Data Science Manager@Nordstorm
