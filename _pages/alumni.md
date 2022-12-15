@@ -12,7 +12,7 @@ author_profile: true
 Current Position: Data Science Manager@Nordstorm
 
 **Chenyu Li**, Research Engineer <br/>
-Current Position: Sr. Software Engineer@dbt Labs
+Current Position: Senior Software Engineer@dbt Labs
 
 **Liang Tan**, Research Scientist <br/>
 Current Position: Staff Machine Learning Engineer@Meta
@@ -21,7 +21,7 @@ Current Position: Staff Machine Learning Engineer@Meta
 Current Position: Software Engineer
 
 **Yuming Yang**, Research Scientist <br/>
-Current Position: Applied Scientist@Microsoft
+Current Position: Applied Scientist II@Microsoft
 
 **Jiawei (Frank) Zhong**, Research Engineer <br/>
 Current Position: Software Engineer@Google
@@ -30,10 +30,10 @@ Current Position: Software Engineer@Google
 Current Position: Senior Data Scientist@Deloitte
 
 **Jiayu Wu**, Research Scientist <br/>
-Current Position: Applied Scientist@Amazon
+Current Position: Applied Scientist II@Amazon
 
 **Yang Cai**, Research Scientist <br/>
-Current Position: Applied Machine Learning Sr. Associate@JPMorgan Chase
+Current Position: Applied Machine Learning Senior Associate@JPMorgan Chase
 
 **Yang Shi**, Research Intern <br/>
 Current Position: Ph.D. Candidate@NCSU
