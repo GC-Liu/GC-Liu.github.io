@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /alumni/
+permalink: /joinus/
 author_profile: true
 ---
 
