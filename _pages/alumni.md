@@ -10,39 +10,39 @@ author_profile: true
 Ex-Team Members
 ------
 
-**Weiye (Michael) Deng**, Research Scientist <br/>
+**Weiye (Michael) Deng** <br/>
 Current Position: Data Science Manager@Nordstorm
 
-**Chenyu Li**, Research Engineer <br/>
+**Chenyu Li** <br/>
 Current Position: Senior Software Engineer@dbt Labs
 
-**Liang Tan**, Research Scientist <br/>
+**Liang Tan** <br/>
 Current Position: Staff Machine Learning Engineer@Meta
 
-**Claire Mathis**, Research Engineer <br/>
+**Claire Mathis** <br/>
 Current Position: Software Engineer
 
-**Yuming Yang**, Research Scientist <br/>
+**Yuming Yang** <br/>
 Current Position: Applied Scientist II@Microsoft
 
-**Jiawei (Frank) Zhong**, Research Engineer <br/>
+**Jiawei (Frank) Zhong** <br/>
 Current Position: Software Engineer@Google
 
-**Yang Zhou**, Research Scientist <br/>
+**Yang Zhou** <br/>
 Current Position: Senior Data Scientist@Deloitte
 
-**Jiayu Wu**, Research Scientist <br/>
+**Jiayu Wu** <br/>
 Current Position: Applied Scientist II@Amazon
 
-**Yang Cai**, Research Scientist <br/>
+**Yang Cai** <br/>
 Current Position: Applied Machine Learning Senior Associate@JPMorgan Chase
 
-**Yang Shi**, Research Intern <br/>
+**Yang Shi** (Research Intern) <br/>
 Current Position: Ph.D. Candidate@NCSU
 
-**Xi Shun**, Research Intern <br/>
+**Xi Shun** (Research Intern) <br/>
 Current Position: Research Engineer@Ansys
 
-**Yuzhe Ye**, Research Intern <br/>
+**Yuzhe Ye** (Research Intern) <br/>
 Current Position: Machine Learning Researcher@Tencent
 
