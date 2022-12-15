@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-> ***We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard.*** 
->                                                                                                         John F. Kennedy, Sep. 12, 1962
+> ***We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard.*** <br />
+> ______________________________________________________________________________________________________John F. Kennedy, Sep. 12, 1962
 
 
 
