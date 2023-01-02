@@ -9,7 +9,7 @@ author_profile: true
 
 Trust Modeling in Online Social Networks
 
-<img src='/images/r1.png' height='240'>
+<img src='/images/r1.png' height='120'>
 
 
 
