@@ -24,6 +24,9 @@ The second component is an algorithm called OpinionWalk, which is an equivalent 
 
 The third component is a neural network-based solution called NeuralWalk. Derived from 3VSL, NeuralWalk employs a neural network (NN) to reconstruct the logic operations in 3VSL. The parameters of the NN can be learned by treating original trust relations in a TSN as labeled samples. NeuralWalk finalized 3VSL as a practical and effective solution for trust assessment in social networks. 
 
+**Social Media Opinion Analysis**
+
+<img src='/images/r2.png' width='480'>
 
 
 
@@ -32,6 +35,3 @@ The third component is a neural network-based solution called NeuralWalk. Derive
 
 
 
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
