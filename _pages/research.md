@@ -11,7 +11,7 @@ Research Topics
 ------
 **Topic I: Dissemination of Multimodal Information in Directed Graph**
 
-<img src='/images/r3.png' width='480'>
+<img src='/images/r3.png' width='360'>
 
 This research aims at proposing an extensible, explainable and efficient computational framework towards modeling multimoadl information propagation in directed graphs. Applications of this research include vehicular network, social network, and other network scenarios etc. 
 
