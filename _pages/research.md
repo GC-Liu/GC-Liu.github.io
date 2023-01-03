@@ -13,7 +13,7 @@ Research Topics
 
 <img src='/images/r3.png' width='280'>
 
-This research aims at proposing a data-driven yet interpretable framework towards modeling multimoadl information propagation in directed graphs. Applications of this research include vehicular network, social network, and other network scenarios etc. 
+This research aims at proposing a data-driven yet interpretable framework towards modeling multimodal information dissemination in directed graphs. Applications of this research include vehicular network, social network, and other network scenarios etc. 
 
 
 
