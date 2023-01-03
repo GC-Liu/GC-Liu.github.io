@@ -9,8 +9,17 @@ author_profile: true
 
 Research Topics
 ------
+**Topic I: Dissemination of Multimodal Information in Directed Graph**
 
-**Trust Modeling in Online Social Networks (OSNs)**
+<img src='/images/r3.png' width='480'>
+
+This research aims at proposing an extensible, explainable and efficient computational framework towards modeling multimoadl information propagation in directed graphs. Applications of this research include vehicular network, social network, and other network scenarios etc. 
+
+
+
+
+
+**Topic II: Trust Modeling in Online Social Networks (OSNs)**
 
 <img src='/images/r1.png' width='480'>
 
@@ -24,7 +33,7 @@ Another component is an algorithmic framework for an equivalent implementation o
 
 The last but never the least component is a neural network-based solution, which aims at build the trust model in a data-driven manner. Derived from 3VSL, We employs a neural network (NN) to reconstruct the logic operations in 3VSL. The parameters of the NN can be learned by treating original trust relations in a TSN as labeled samples. This component will finalized the trust model as a practical and effective solution for trust assessment in social networks. 
 
-**Social Media Opinion Analysis**
+**Topic III: Social Media Opinion Analysis**
 
 <img src='/images/r2.png' width='500'>
 
