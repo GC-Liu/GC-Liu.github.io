@@ -31,7 +31,7 @@ Education
 Work Experience
 ------
 * **Kennesaw State University**, Marrieta, GA, U.S.A.
-  * Aug. 2022 - Present: *Assistant Professor of Computer Science*
+  * Aug. 2022 - Jul. 2023: *Assistant Professor of Computer Science*
   
   
 * **Stratifyd, Inc.**, Charlotte, NC, U.S.A.
