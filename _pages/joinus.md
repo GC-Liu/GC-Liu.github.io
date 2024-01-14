@@ -54,8 +54,8 @@ Current Position: Research Engineer@Ansys
 **Yuzhe Ye** (Research Intern) <br/>
 Current Position: Machine Learning Researcher@Tencent
 
-<img src='/images/20240114-211755.png' width='280'>
-<img src='/images/20240114-211749.png' width='280'>
+<img src='/images/20240114-211755.jpeg' width='280'>
+<img src='/images/20240114-211749.jpeg' width='280'>
 
 
 
